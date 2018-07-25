@@ -48,6 +48,7 @@ body {
 .video_detail iframe {
   width: 70vw;
   height: 40vw;
+  margin: 0 40px;
 }
 .video_detail h1 {
   font-size: 24px;
